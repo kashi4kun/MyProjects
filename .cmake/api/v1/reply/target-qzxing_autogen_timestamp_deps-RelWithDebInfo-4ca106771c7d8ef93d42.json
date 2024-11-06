@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"C:/Qt/Libs/qzxing-master/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "qzxing_autogen_timestamp_deps::@543357b078b9b53ea562",
+	"isGeneratorProvided" : true,
+	"name" : "qzxing_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "qzxing",
+		"source" : "C:/Qt/Libs/qzxing-master/src"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

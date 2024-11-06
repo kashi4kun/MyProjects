@@ -1,0 +1,236 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "QXlsx",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-QXlsx-RelWithDebInfo-dfd264bd70ec42a2c97b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Qt/Libs/QXlsx-master/QXlsx",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "qzxing",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-qzxing-RelWithDebInfo-fb2fdbf76b3a2963866c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "C:/Qt/Libs/qzxing-master/src",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "qzxing/zxing/win32",
+					"jsonFile" : "directory-qzxing.zxing.win32-RelWithDebInfo-1ee0d2693e7352ade4ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "C:/Qt/Libs/qzxing-master/src/zxing/win32"
+				},
+				{
+					"build" : "qzxing/zxing/bigint",
+					"jsonFile" : "directory-qzxing.zxing.bigint-RelWithDebInfo-94754edb9717d6755b54.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "C:/Qt/Libs/qzxing-master/src/zxing/bigint"
+				},
+				{
+					"build" : "qzxing/zxing/zxing",
+					"jsonFile" : "directory-qzxing.zxing.zxing-RelWithDebInfo-52f4dc19741f15c0fa8f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "C:/Qt/Libs/qzxing-master/src/zxing/zxing"
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExcelToQrCodeApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "QXlsx",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "QZXing",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExcelToQrCodeApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExcelToQrCodeApp-RelWithDebInfo-95ca94df14ca9b7eeff5.json",
+					"name" : "ExcelToQrCodeApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExcelToQrCodeApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExcelToQrCodeApp_autogen-RelWithDebInfo-4e9eb7d1f8aa7977c6ce.json",
+					"name" : "ExcelToQrCodeApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExcelToQrCodeApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExcelToQrCodeApp_autogen_timestamp_deps-RelWithDebInfo-e0f75d062a52c60ef1b4.json",
+					"name" : "ExcelToQrCodeApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx-RelWithDebInfo-e4e9c30a8bfc138b1bd2.json",
+					"name" : "QXlsx",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx_autogen::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx_autogen-RelWithDebInfo-e507d5f8bc907b46495e.json",
+					"name" : "QXlsx_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx_autogen_timestamp_deps::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx_autogen_timestamp_deps-RelWithDebInfo-416b41cc085717965451.json",
+					"name" : "QXlsx_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qzxing::@543357b078b9b53ea562",
+					"jsonFile" : "target-qzxing-RelWithDebInfo-d360570d8d7608ef9987.json",
+					"name" : "qzxing",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qzxing_autogen::@543357b078b9b53ea562",
+					"jsonFile" : "target-qzxing_autogen-RelWithDebInfo-87849811e14cfb5081f9.json",
+					"name" : "qzxing_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qzxing_autogen_timestamp_deps::@543357b078b9b53ea562",
+					"jsonFile" : "target-qzxing_autogen_timestamp_deps-RelWithDebInfo-4ca106771c7d8ef93d42.json",
+					"name" : "qzxing_autogen_timestamp_deps",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/Programs/ExcelToQrCode_V1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-RelWithDebInfo",
+		"source" : "C:/Users/User/Desktop/Programs/ExcelToQrCode_V1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

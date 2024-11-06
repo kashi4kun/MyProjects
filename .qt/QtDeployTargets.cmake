@@ -1,0 +1,7 @@
+set(__QT_DEPLOY_TARGET_QXlsx_FILE C:/Users/User/Desktop/Programs/ExcelToQrCode_V1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-RelWithDebInfo/QXlsx/libQXlsxQt6.a)
+set(__QT_DEPLOY_TARGET_QXlsx_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_qzxing_FILE C:/Users/User/Desktop/Programs/ExcelToQrCode_V1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-RelWithDebInfo/qzxing/libqzxing.a)
+set(__QT_DEPLOY_TARGET_qzxing_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_ExcelToQrCodeApp_FILE C:/Users/User/Desktop/Programs/ExcelToQrCode_V1/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-RelWithDebInfo/ExcelToQrCodeApp.exe)
+set(__QT_DEPLOY_TARGET_ExcelToQrCodeApp_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_ExcelToQrCodeApp_RUNTIME_DLLS C:/Qt/6.8.0/llvm-mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.8.0/llvm-mingw_64/bin/Qt6Svg.dll;C:/Qt/6.8.0/llvm-mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.0/llvm-mingw_64/bin/Qt6Core.dll)

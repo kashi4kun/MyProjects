@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "qzxing/zxing/win32",
+		"source" : "C:/Qt/Libs/qzxing-master/src/zxing/win32"
+	}
+}
